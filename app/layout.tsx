@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "TON SBT Minter",
+  title: "ETN OG Pass",
   description: "Simple app for minting Soulbound Tokens on The Open Network",
 };
 
