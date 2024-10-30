@@ -5,7 +5,7 @@
 import MintSBT from "@/components/MintSBT";
 import { TonConnectUIProvider } from "@tonconnect/ui-react";
 
-const MANIFEST_URL = 'https://etneco.ethio-tech.com/tonconnect-manifest.json';
+const MANIFEST_URL = 'https://emerald-efficient-macaw-234.mypinata.cloud/ipfs/QmYW2TZSPpYmhRqWgoNPeyUymDhSruaY1fpVw5JsJdedpx';
 
 export default function Home() {
   return (
